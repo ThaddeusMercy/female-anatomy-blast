@@ -1,5 +1,7 @@
 # Female Anatomy Blast
 
+**[Open the live demo](https://female-anatomy-blast.vercel.app/)** — free to explore, no sign-in required.
+
 An open-source, interactive anatomy explorer by **Mercy Thaddeus**. Rotate the body, explore 15 systems, search for a structure, isolate it, or separate every piece in an exploded view.
 
 Built with AI assistance and inspired by [Human Atlas by ashemag](https://github.com/ashemag/human-atlas). This project combines open anatomy datasets with explicitly labelled teaching schematics to make female anatomy easier to explore and improve together.
