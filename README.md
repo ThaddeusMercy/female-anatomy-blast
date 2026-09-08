@@ -6,7 +6,9 @@ Built with AI assistance and inspired by [Human Atlas by ashemag](https://github
 
 **Educational prototype.** This is a composite illustration, not a scan of a woman or a clinically validated atlas. Shared anatomy is adapted from a male reference. Shapes, attachments and registration between sources need specialist review.
 
-![Composite study model: front and three-quarter views](docs/model-overview.png)
+![Refined composite study model: front, side and back views](docs/model-overview.png)
+
+The latest refinement adds localized torso and shoulder shaping, posterior muscle contours and a coherent fit for all breast tissues. See the [before/after review and measured changes](docs/REFINEMENT.md). These are illustration choices, not a standard female body shape.
 
 ## Explore
 
@@ -47,15 +49,11 @@ The static website is built into `dist/`. Deploy that directory to your static h
 2. Human Reference Atlas female v1.5 supplies 76 meshes, fitted to the illustration. Source identifiers and transformations are retained in the manifest.
 3. `scripts/expand-atlas.mjs` corrects known layer errors, removes five exact duplicate meshes, adds two HRA uterine artery meshes and authors 81 new schematic pieces. Together with the existing urethra, there are 82 schematic pieces.
 
-To regenerate the additions, download the [official HRA female v1.5 GLB](https://cdn.humanatlas.io/digital-objects/ref-organ/united-female/v1.5/assets/3d-vh-f-united.glb), then run:
+4. `scripts/refine-anatomy.mjs` refines the expanded model using a common localized spatial field, a shared fit for the 16 breast pieces and bounded repairs for thin source triangles. It preserves all IDs, triangle indices and provenance labels.
 
-```sh
-node scripts/expand-atlas.mjs /absolute/path/to/3d-vh-f-united.glb
-python3 scripts/audit-inventory.py
-node scripts/validate-atlas.mjs
-```
+The included geometry is ready to run. To reproduce or modify the refinement, follow [the exact baseline and build instructions](docs/REFINEMENT.md#reproduce-the-refinement). The script requires an unrefined baseline outside the output folder and refuses refined input so repeated runs cannot compound the deformation. Expand the baseline before refining; the expansion script rejects an already refined model.
 
-The expansion is idempotent against the included model. `scripts/build-custom-female.mjs` records the earlier base assembly; rebuilding that stage requires the original source catalogs and byte ranges described in its header. Those large intermediate inputs are not required to run or modify this release.
+`scripts/build-custom-female.mjs` records the earlier base assembly; rebuilding that stage requires the original source catalogs and byte ranges described in its header. Those large intermediate inputs are not required to run or modify this release.
 
 ## Contribute
 

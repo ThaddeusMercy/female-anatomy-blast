@@ -1,4 +1,4 @@
-# Model coverage — Female Anatomy Blast 2.1
+# Model coverage — Female Anatomy Blast 2.2
 
 This is an inventory of the illustration, not a certification of anatomical accuracy.
 
@@ -12,6 +12,12 @@ The model now contains 2,353 selectable pieces: 2,195 adapted BodyParts3D pieces
 - Removed five byte-identical duplicate meshes and repaired group memberships.
 - Added left and right uterine arteries from the HRA female reference.
 - Added 81 new schematic pieces; the existing schematic urethra remains labelled.
+
+## Shape refinement
+
+The 2.2 refinement adjusts torso/shoulder proportions, posterior muscle contours and the fit of all 16 breast pieces as a group. All 2,353 mesh identities and triangle indices remain intact. The core fitted uterus, ovaries, vagina and schematic urethra retain their positions. Some surrounding pelvic surfaces are gently reshaped by the common spatial field; their anatomical connections still require review.
+
+There is no single standard female body shape. These edits improve this composite illustration and do not establish population measurements, correct muscle attachments or clinical accuracy. [Detailed changes and front/side/back comparisons](https://github.com/ThaddeusMercy/female-anatomy-blast/blob/main/docs/REFINEMENT.md).
 
 ## Added study anatomy
 

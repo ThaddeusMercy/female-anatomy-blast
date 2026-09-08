@@ -9,6 +9,7 @@ import * as T from 'three';
 import {mergeGeometries} from 'three/addons/utils/BufferGeometryUtils.js';
 const dir=new URL('../public/models/',import.meta.url);
 const atlas=JSON.parse(fs.readFileSync(new URL('atlas.json',dir)));
+if(atlas.refinement)throw Error('This model is already refined. Expand an unrefined baseline first, then run refine-anatomy.mjs. See docs/REFINEMENT.md.');
 const glbPath=process.argv[2];
 if(!glbPath)throw Error('Supply the official HRA female v1.5 GLB; see public/ATTRIBUTION.md.');
 const glb=fs.readFileSync(glbPath);

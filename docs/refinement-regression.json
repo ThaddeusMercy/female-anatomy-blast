@@ -1,0 +1,43 @@
+{
+  "clinicalValidation": false,
+  "baselineManifestSha256": "8d08239a9e8f6b3407b7b1c4eb5c539343cba010d4f15c72a0cc841338f609d1",
+  "pieces": 2353,
+  "triangles": 2537272,
+  "testedNondegenerateTriangles": 2537128,
+  "topologyAndIdentitiesPreserved": true,
+  "unchangedPieces": 1045,
+  "unchangedVerticesBelowPointSevenMetres": 160153,
+  "maximumDisplacementMm": 15.875192599073342,
+  "triangleAreaRatio": {
+    "min": 0.22645065308436693,
+    "max": 2.892172288436916
+  },
+  "measurements": {
+    "waistSurfaceWidth": {
+      "beforeMm": 253.4288465976715,
+      "afterMm": 232.6209843158722,
+      "changePercent": -8.210534262831038
+    },
+    "deltoidSurfaceWidth": {
+      "beforeMm": 418.3978736400604,
+      "afterMm": 406.9167375564575,
+      "changePercent": -2.744071327064135
+    },
+    "leftBreastDepth": {
+      "beforeMm": 97.17631340026855,
+      "afterMm": 83.61060917377472,
+      "changePercent": -13.959887704956241
+    },
+    "rightBreastDepth": {
+      "beforeMm": 98.43996167182922,
+      "afterMm": 84.91223305463791,
+      "changePercent": -13.742110812973396
+    },
+    "glutealSurfaceDepth": {
+      "beforeMm": 94.94146704673767,
+      "afterMm": 103.35603356361389,
+      "changePercent": 8.862899193177531
+    }
+  },
+  "note": "Surface extents are geometry proxies, not anthropometric landmarks or normal female ranges. Positive orientation at sampled triangles is not a global collision test. Core pelvic organs preserved; cross-source anatomical connections remain unvalidated."
+}

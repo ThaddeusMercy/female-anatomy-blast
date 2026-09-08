@@ -1,6 +1,6 @@
 {
   "scope": "Inventory of source labels and mesh geometry, not clinical validation. Standard 206 excludes variable accessory sesamoids and teeth. Sternum is counted once; each adult hip bone once; duplicate hyoid once.",
-  "source_manifest_sha256": "8d08239a9e8f6b3407b7b1c4eb5c539343cba010d4f15c72a0cc841338f609d1",
+  "source_manifest_sha256": "993d0befad2e8d58548d06a46b41e804f1ddb130f4387c58aeab1f2501504cc5",
   "total_meshes": 2353,
   "skeletal_layer_meshes": 269,
   "expected_bones": 206,
