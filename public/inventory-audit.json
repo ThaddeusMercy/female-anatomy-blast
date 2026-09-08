@@ -1,0 +1,1260 @@
+{
+  "scope": "Inventory of source labels and mesh geometry, not clinical validation. Standard 206 excludes variable accessory sesamoids and teeth. Sternum is counted once; each adult hip bone once; duplicate hyoid once.",
+  "source_manifest_sha256": "8d08239a9e8f6b3407b7b1c4eb5c539343cba010d4f15c72a0cc841338f609d1",
+  "total_meshes": 2353,
+  "skeletal_layer_meshes": 269,
+  "expected_bones": 206,
+  "represented_bones": 206,
+  "missing_bone_entries": [],
+  "regions": {
+    "Cranial bones": {
+      "expected": 8,
+      "represented": 8
+    },
+    "Facial bones": {
+      "expected": 14,
+      "represented": 14
+    },
+    "Middle-ear bones": {
+      "expected": 6,
+      "represented": 6
+    },
+    "Hyoid": {
+      "expected": 1,
+      "represented": 1
+    },
+    "Vertebral column": {
+      "expected": 26,
+      "represented": 26
+    },
+    "Ribs and sternum": {
+      "expected": 25,
+      "represented": 25
+    },
+    "Shoulder girdles": {
+      "expected": 4,
+      "represented": 4
+    },
+    "Upper limbs and hands": {
+      "expected": 60,
+      "represented": 60
+    },
+    "Hip bones": {
+      "expected": 2,
+      "represented": 2
+    },
+    "Lower limbs and feet": {
+      "expected": 60,
+      "represented": 60
+    }
+  },
+  "bones_in_other_layers": [],
+  "muscles_in_skeletal": [],
+  "exact_duplicate_geometry_groups": [],
+  "female_and_other_gap_queries": [
+    {
+      "structure": "Clitoris including glans, body and crura",
+      "mesh_matches": [
+        {
+          "id": "CUSTOM_clitoral_glans",
+          "name": "Glans of clitoris (schematic)"
+        },
+        {
+          "id": "CUSTOM_clitoral_body",
+          "name": "Body of clitoris (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_clitoral_crus",
+          "name": "Left crus of clitoris (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_clitoral_crus",
+          "name": "Right crus of clitoris (schematic)"
+        }
+      ],
+      "concept_matches": [
+        {
+          "id": "CUSTOM_clitoral_glans",
+          "name": "Glans of clitoris (schematic)"
+        },
+        {
+          "id": "CUSTOM_clitoral_body",
+          "name": "Body of clitoris (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_clitoral_crus",
+          "name": "Left crus of clitoris (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_clitoral_crus",
+          "name": "Right crus of clitoris (schematic)"
+        },
+        {
+          "id": "CUSTOM_clitoris",
+          "name": "Clitoris"
+        }
+      ]
+    },
+    {
+      "structure": "Labia majora and minora",
+      "mesh_matches": [
+        {
+          "id": "CUSTOM_left_labium_majus",
+          "name": "Left labium majus (labia majora) (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_labium_minus",
+          "name": "Left labium minus (labia minora) (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_labium_majus",
+          "name": "Right labium majus (labia majora) (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_labium_minus",
+          "name": "Right labium minus (labia minora) (schematic)"
+        }
+      ],
+      "concept_matches": [
+        {
+          "id": "CUSTOM_left_labium_majus",
+          "name": "Left labium majus (labia majora) (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_labium_minus",
+          "name": "Left labium minus (labia minora) (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_labium_majus",
+          "name": "Right labium majus (labia majora) (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_labium_minus",
+          "name": "Right labium minus (labia minora) (schematic)"
+        }
+      ]
+    },
+    {
+      "structure": "Mons pubis",
+      "mesh_matches": [
+        {
+          "id": "CUSTOM_mons_pubis",
+          "name": "Mons pubis (schematic)"
+        }
+      ],
+      "concept_matches": [
+        {
+          "id": "CUSTOM_mons_pubis",
+          "name": "Mons pubis (schematic)"
+        }
+      ]
+    },
+    {
+      "structure": "Vulval vestibule and vestibular bulbs",
+      "mesh_matches": [
+        {
+          "id": "CUSTOM_left_vestibular_bulb",
+          "name": "Left bulb of vestibule (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_vestibular_bulb",
+          "name": "Right bulb of vestibule (schematic)"
+        },
+        {
+          "id": "CUSTOM_vulval_vestibule",
+          "name": "Vulval vestibule boundary (schematic)"
+        }
+      ],
+      "concept_matches": [
+        {
+          "id": "CUSTOM_left_vestibular_bulb",
+          "name": "Left bulb of vestibule (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_vestibular_bulb",
+          "name": "Right bulb of vestibule (schematic)"
+        },
+        {
+          "id": "CUSTOM_vulval_vestibule",
+          "name": "Vulval vestibule boundary (schematic)"
+        },
+        {
+          "id": "CUSTOM_vulva",
+          "name": "Vulva \u2014 schematic study"
+        }
+      ]
+    },
+    {
+      "structure": "Greater vestibular (Bartholin) glands",
+      "mesh_matches": [
+        {
+          "id": "CUSTOM_left_bartholin_gland",
+          "name": "Left greater vestibular (Bartholin) gland (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_bartholin_gland",
+          "name": "Right greater vestibular (Bartholin) gland (schematic)"
+        }
+      ],
+      "concept_matches": [
+        {
+          "id": "CUSTOM_left_bartholin_gland",
+          "name": "Left greater vestibular (Bartholin) gland (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_bartholin_gland",
+          "name": "Right greater vestibular (Bartholin) gland (schematic)"
+        },
+        {
+          "id": "CUSTOM_perineal_glands",
+          "name": "Bartholin and Skene glands"
+        }
+      ]
+    },
+    {
+      "structure": "Paraurethral (Skene) glands",
+      "mesh_matches": [
+        {
+          "id": "CUSTOM_left_skene_gland",
+          "name": "Left paraurethral (Skene) gland (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_skene_gland",
+          "name": "Right paraurethral (Skene) gland (schematic)"
+        }
+      ],
+      "concept_matches": [
+        {
+          "id": "CUSTOM_left_skene_gland",
+          "name": "Left paraurethral (Skene) gland (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_skene_gland",
+          "name": "Right paraurethral (Skene) gland (schematic)"
+        },
+        {
+          "id": "CUSTOM_perineal_glands",
+          "name": "Bartholin and Skene glands"
+        }
+      ]
+    },
+    {
+      "structure": "Female urethra",
+      "mesh_matches": [
+        {
+          "id": "CUSTOM_urethra",
+          "name": "Female urethra (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_skene_gland",
+          "name": "Left paraurethral (Skene) gland (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_skene_gland",
+          "name": "Right paraurethral (Skene) gland (schematic)"
+        },
+        {
+          "id": "CUSTOM_urethral_sphincter",
+          "name": "External urethral sphincter (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_compressor_urethrae",
+          "name": "Left compressor urethrae (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_compressor_urethrae",
+          "name": "Right compressor urethrae (schematic)"
+        }
+      ],
+      "concept_matches": [
+        {
+          "id": "CUSTOM_urethra",
+          "name": "Female urethra (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_skene_gland",
+          "name": "Left paraurethral (Skene) gland (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_skene_gland",
+          "name": "Right paraurethral (Skene) gland (schematic)"
+        },
+        {
+          "id": "CUSTOM_urethral_sphincter",
+          "name": "External urethral sphincter (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_compressor_urethrae",
+          "name": "Left compressor urethrae (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_compressor_urethrae",
+          "name": "Right compressor urethrae (schematic)"
+        }
+      ]
+    },
+    {
+      "structure": "Uterine arteries",
+      "mesh_matches": [
+        {
+          "id": "VH_F_left_uterine_artery",
+          "name": "Left uterine artery"
+        },
+        {
+          "id": "VH_F_right_uterine_artery",
+          "name": "Right uterine artery"
+        }
+      ],
+      "concept_matches": [
+        {
+          "id": "VH_F_left_uterine_artery",
+          "name": "Left uterine artery"
+        },
+        {
+          "id": "VH_F_right_uterine_artery",
+          "name": "Right uterine artery"
+        },
+        {
+          "id": "CUSTOM_uterine_arteries",
+          "name": "Uterine arteries"
+        }
+      ]
+    },
+    {
+      "structure": "Ovarian arteries and veins",
+      "mesh_matches": [
+        {
+          "id": "CUSTOM_left_ovarian_artery",
+          "name": "Left ovarian artery (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_ovarian_vein",
+          "name": "Left ovarian vein (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_ovarian_artery",
+          "name": "Right ovarian artery (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_ovarian_vein",
+          "name": "Right ovarian vein (schematic)"
+        }
+      ],
+      "concept_matches": [
+        {
+          "id": "CUSTOM_left_ovarian_artery",
+          "name": "Left ovarian artery (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_ovarian_vein",
+          "name": "Left ovarian vein (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_ovarian_artery",
+          "name": "Right ovarian artery (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_ovarian_vein",
+          "name": "Right ovarian vein (schematic)"
+        }
+      ]
+    },
+    {
+      "structure": "Pudendal nerves",
+      "mesh_matches": [
+        {
+          "id": "CUSTOM_left_pudendal_nerve",
+          "name": "Left pudendal nerve (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_pudendal_nerve",
+          "name": "Right pudendal nerve (schematic)"
+        }
+      ],
+      "concept_matches": [
+        {
+          "id": "CUSTOM_left_pudendal_nerve",
+          "name": "Left pudendal nerve (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_pudendal_nerve",
+          "name": "Right pudendal nerve (schematic)"
+        }
+      ]
+    },
+    {
+      "structure": "Internal pudendal arteries",
+      "mesh_matches": [
+        {
+          "id": "CUSTOM_left_internal_pudendal_artery",
+          "name": "Left internal pudendal artery (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_internal_pudendal_artery",
+          "name": "Right internal pudendal artery (schematic)"
+        }
+      ],
+      "concept_matches": [
+        {
+          "id": "CUSTOM_left_internal_pudendal_artery",
+          "name": "Left internal pudendal artery (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_internal_pudendal_artery",
+          "name": "Right internal pudendal artery (schematic)"
+        }
+      ]
+    },
+    {
+      "structure": "Bulbospongiosus muscle",
+      "mesh_matches": [
+        {
+          "id": "CUSTOM_left_bulbospongiosus",
+          "name": "Left bulbospongiosus muscle (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_bulbospongiosus",
+          "name": "Right bulbospongiosus muscle (schematic)"
+        }
+      ],
+      "concept_matches": [
+        {
+          "id": "CUSTOM_left_bulbospongiosus",
+          "name": "Left bulbospongiosus muscle (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_bulbospongiosus",
+          "name": "Right bulbospongiosus muscle (schematic)"
+        }
+      ]
+    },
+    {
+      "structure": "Ischiocavernosus muscle",
+      "mesh_matches": [
+        {
+          "id": "CUSTOM_left_ischiocavernosus",
+          "name": "Left ischiocavernosus muscle (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_ischiocavernosus",
+          "name": "Right ischiocavernosus muscle (schematic)"
+        }
+      ],
+      "concept_matches": [
+        {
+          "id": "CUSTOM_left_ischiocavernosus",
+          "name": "Left ischiocavernosus muscle (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_ischiocavernosus",
+          "name": "Right ischiocavernosus muscle (schematic)"
+        }
+      ]
+    },
+    {
+      "structure": "Uterine endometrium",
+      "mesh_matches": [
+        {
+          "id": "CUSTOM_endometrium",
+          "name": "Endometrium (schematic)"
+        }
+      ],
+      "concept_matches": [
+        {
+          "id": "CUSTOM_endometrium",
+          "name": "Endometrium (schematic)"
+        }
+      ]
+    },
+    {
+      "structure": "Uterine myometrium",
+      "mesh_matches": [
+        {
+          "id": "CUSTOM_myometrium",
+          "name": "Myometrium (schematic)"
+        }
+      ],
+      "concept_matches": [
+        {
+          "id": "CUSTOM_myometrium",
+          "name": "Myometrium (schematic)"
+        }
+      ]
+    },
+    {
+      "structure": "Lymph nodes",
+      "mesh_matches": [
+        {
+          "id": "CUSTOM_left_cervical_lymph_node_1",
+          "name": "Left cervical lymph node 1 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_cervical_lymph_node_2",
+          "name": "Left cervical lymph node 2 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_cervical_lymph_node_3",
+          "name": "Left cervical lymph node 3 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_cervical_lymph_node_4",
+          "name": "Left cervical lymph node 4 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_axillary_lymph_node_1",
+          "name": "Left axillary lymph node 1 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_axillary_lymph_node_2",
+          "name": "Left axillary lymph node 2 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_axillary_lymph_node_3",
+          "name": "Left axillary lymph node 3 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_axillary_lymph_node_4",
+          "name": "Left axillary lymph node 4 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_inguinal_lymph_node_1",
+          "name": "Left inguinal lymph node 1 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_inguinal_lymph_node_2",
+          "name": "Left inguinal lymph node 2 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_inguinal_lymph_node_3",
+          "name": "Left inguinal lymph node 3 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_inguinal_lymph_node_4",
+          "name": "Left inguinal lymph node 4 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_inguinal_lymph_node_5",
+          "name": "Left inguinal lymph node 5 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_cervical_lymph_node_1",
+          "name": "Right cervical lymph node 1 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_cervical_lymph_node_2",
+          "name": "Right cervical lymph node 2 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_cervical_lymph_node_3",
+          "name": "Right cervical lymph node 3 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_cervical_lymph_node_4",
+          "name": "Right cervical lymph node 4 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_axillary_lymph_node_1",
+          "name": "Right axillary lymph node 1 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_axillary_lymph_node_2",
+          "name": "Right axillary lymph node 2 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_axillary_lymph_node_3",
+          "name": "Right axillary lymph node 3 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_axillary_lymph_node_4",
+          "name": "Right axillary lymph node 4 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_inguinal_lymph_node_1",
+          "name": "Right inguinal lymph node 1 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_inguinal_lymph_node_2",
+          "name": "Right inguinal lymph node 2 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_inguinal_lymph_node_3",
+          "name": "Right inguinal lymph node 3 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_inguinal_lymph_node_4",
+          "name": "Right inguinal lymph node 4 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_inguinal_lymph_node_5",
+          "name": "Right inguinal lymph node 5 \u2014 representative (schematic)"
+        }
+      ],
+      "concept_matches": [
+        {
+          "id": "CUSTOM_left_cervical_lymph_node_1",
+          "name": "Left cervical lymph node 1 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_cervical_lymph_node_2",
+          "name": "Left cervical lymph node 2 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_cervical_lymph_node_3",
+          "name": "Left cervical lymph node 3 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_cervical_lymph_node_4",
+          "name": "Left cervical lymph node 4 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_axillary_lymph_node_1",
+          "name": "Left axillary lymph node 1 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_axillary_lymph_node_2",
+          "name": "Left axillary lymph node 2 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_axillary_lymph_node_3",
+          "name": "Left axillary lymph node 3 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_axillary_lymph_node_4",
+          "name": "Left axillary lymph node 4 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_inguinal_lymph_node_1",
+          "name": "Left inguinal lymph node 1 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_inguinal_lymph_node_2",
+          "name": "Left inguinal lymph node 2 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_inguinal_lymph_node_3",
+          "name": "Left inguinal lymph node 3 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_inguinal_lymph_node_4",
+          "name": "Left inguinal lymph node 4 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_inguinal_lymph_node_5",
+          "name": "Left inguinal lymph node 5 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_cervical_lymph_node_1",
+          "name": "Right cervical lymph node 1 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_cervical_lymph_node_2",
+          "name": "Right cervical lymph node 2 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_cervical_lymph_node_3",
+          "name": "Right cervical lymph node 3 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_cervical_lymph_node_4",
+          "name": "Right cervical lymph node 4 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_axillary_lymph_node_1",
+          "name": "Right axillary lymph node 1 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_axillary_lymph_node_2",
+          "name": "Right axillary lymph node 2 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_axillary_lymph_node_3",
+          "name": "Right axillary lymph node 3 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_axillary_lymph_node_4",
+          "name": "Right axillary lymph node 4 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_inguinal_lymph_node_1",
+          "name": "Right inguinal lymph node 1 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_inguinal_lymph_node_2",
+          "name": "Right inguinal lymph node 2 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_inguinal_lymph_node_3",
+          "name": "Right inguinal lymph node 3 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_inguinal_lymph_node_4",
+          "name": "Right inguinal lymph node 4 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_inguinal_lymph_node_5",
+          "name": "Right inguinal lymph node 5 \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_cervical_nodes",
+          "name": "Left cervical lymph nodes \u2014 representative"
+        },
+        {
+          "id": "CUSTOM_left_axillary_nodes",
+          "name": "Left axillary lymph nodes \u2014 representative"
+        },
+        {
+          "id": "CUSTOM_left_inguinal_nodes",
+          "name": "Left inguinal lymph nodes \u2014 representative"
+        },
+        {
+          "id": "CUSTOM_right_cervical_nodes",
+          "name": "Right cervical lymph nodes \u2014 representative"
+        },
+        {
+          "id": "CUSTOM_right_axillary_nodes",
+          "name": "Right axillary lymph nodes \u2014 representative"
+        },
+        {
+          "id": "CUSTOM_right_inguinal_nodes",
+          "name": "Right inguinal lymph nodes \u2014 representative"
+        }
+      ]
+    },
+    {
+      "structure": "Lymphatic ducts and vessels",
+      "mesh_matches": [
+        {
+          "id": "CUSTOM_left_cervical_lymphatic_vessel",
+          "name": "Left cervical lymphatic vessel \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_axillary_lymphatic_vessel",
+          "name": "Left axillary lymphatic vessel \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_inguinal_lymphatic_vessel",
+          "name": "Left inguinal lymphatic vessel \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_cervical_lymphatic_vessel",
+          "name": "Right cervical lymphatic vessel \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_axillary_lymphatic_vessel",
+          "name": "Right axillary lymphatic vessel \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_inguinal_lymphatic_vessel",
+          "name": "Right inguinal lymphatic vessel \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_thoracic_duct",
+          "name": "Thoracic duct (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_lymphatic_duct",
+          "name": "Right lymphatic duct (schematic)"
+        }
+      ],
+      "concept_matches": [
+        {
+          "id": "CUSTOM_left_cervical_lymphatic_vessel",
+          "name": "Left cervical lymphatic vessel \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_axillary_lymphatic_vessel",
+          "name": "Left axillary lymphatic vessel \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_inguinal_lymphatic_vessel",
+          "name": "Left inguinal lymphatic vessel \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_cervical_lymphatic_vessel",
+          "name": "Right cervical lymphatic vessel \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_axillary_lymphatic_vessel",
+          "name": "Right axillary lymphatic vessel \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_inguinal_lymphatic_vessel",
+          "name": "Right inguinal lymphatic vessel \u2014 representative (schematic)"
+        },
+        {
+          "id": "CUSTOM_thoracic_duct",
+          "name": "Thoracic duct (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_lymphatic_duct",
+          "name": "Right lymphatic duct (schematic)"
+        }
+      ]
+    },
+    {
+      "structure": "Thyroid gland",
+      "mesh_matches": [
+        {
+          "id": "CUSTOM_left_thyroid_lobe",
+          "name": "Left lobe of thyroid gland (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_thyroid_lobe",
+          "name": "Right lobe of thyroid gland (schematic)"
+        },
+        {
+          "id": "CUSTOM_thyroid_isthmus",
+          "name": "Isthmus of thyroid gland (schematic)"
+        }
+      ],
+      "concept_matches": [
+        {
+          "id": "CUSTOM_left_thyroid_lobe",
+          "name": "Left lobe of thyroid gland (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_thyroid_lobe",
+          "name": "Right lobe of thyroid gland (schematic)"
+        },
+        {
+          "id": "CUSTOM_thyroid_isthmus",
+          "name": "Isthmus of thyroid gland (schematic)"
+        },
+        {
+          "id": "CUSTOM_thyroid",
+          "name": "Thyroid gland"
+        }
+      ]
+    },
+    {
+      "structure": "Parathyroid glands",
+      "mesh_matches": [
+        {
+          "id": "CUSTOM_left_superior_parathyroid",
+          "name": "Left superior parathyroid gland (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_inferior_parathyroid",
+          "name": "Left inferior parathyroid gland (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_superior_parathyroid",
+          "name": "Right superior parathyroid gland (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_inferior_parathyroid",
+          "name": "Right inferior parathyroid gland (schematic)"
+        }
+      ],
+      "concept_matches": [
+        {
+          "id": "CUSTOM_left_superior_parathyroid",
+          "name": "Left superior parathyroid gland (schematic)"
+        },
+        {
+          "id": "CUSTOM_left_inferior_parathyroid",
+          "name": "Left inferior parathyroid gland (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_superior_parathyroid",
+          "name": "Right superior parathyroid gland (schematic)"
+        },
+        {
+          "id": "CUSTOM_right_inferior_parathyroid",
+          "name": "Right inferior parathyroid gland (schematic)"
+        },
+        {
+          "id": "CUSTOM_parathyroids",
+          "name": "Parathyroid glands"
+        }
+      ]
+    },
+    {
+      "structure": "Skin",
+      "mesh_matches": [],
+      "concept_matches": []
+    }
+  ],
+  "female_reference_meshes": [
+    {
+      "id": "VH_F_fat_L",
+      "name": "Interlobar adipose tissue of left mammary gland",
+      "system": "breast"
+    },
+    {
+      "id": "VH_F_areolar_tubercles_L",
+      "name": "Left areolar tubercle",
+      "system": "breast"
+    },
+    {
+      "id": "VH_F_nipple_L",
+      "name": "Left nipple",
+      "system": "breast"
+    },
+    {
+      "id": "VH_F_areola_L",
+      "name": "Left female areola",
+      "system": "breast"
+    },
+    {
+      "id": "VH_F_mammary_lobes_L",
+      "name": "Left mammary lobe",
+      "system": "breast"
+    },
+    {
+      "id": "VH_F_main_lactiferous_ducts_L",
+      "name": "Left main lactiferous duct",
+      "system": "breast"
+    },
+    {
+      "id": "VH_F_main_lactiferous_sinuses_L",
+      "name": "Left Lactiferous sinus",
+      "system": "breast"
+    },
+    {
+      "id": "VH_F_suspensory_ligaments_L",
+      "name": "Suspensory ligament of left breast",
+      "system": "breast"
+    },
+    {
+      "id": "VH_F_fat_R",
+      "name": "Interlobar adipose tissue of right mammary gland",
+      "system": "breast"
+    },
+    {
+      "id": "VH_F_areolar_tubercles_R",
+      "name": "Right areolar tubercle",
+      "system": "breast"
+    },
+    {
+      "id": "VH_F_nipple_R",
+      "name": "Right nipple",
+      "system": "breast"
+    },
+    {
+      "id": "VH_F_areola_R",
+      "name": "Right female areola",
+      "system": "breast"
+    },
+    {
+      "id": "VH_F_main_lactiferous_sinuses_R",
+      "name": "Right Lactiferous sinus",
+      "system": "breast"
+    },
+    {
+      "id": "VH_F_main_lactiferous_ducts_R",
+      "name": "Right main lactiferous duct",
+      "system": "breast"
+    },
+    {
+      "id": "VH_F_mammary_lobes_R",
+      "name": "Right mammary lobe",
+      "system": "breast"
+    },
+    {
+      "id": "VH_F_suspensory_ligaments_R",
+      "name": "Suspensory ligament of right breast",
+      "system": "breast"
+    },
+    {
+      "id": "VH_F_vagina",
+      "name": "Vagina",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_cervicovaginal_junction",
+      "name": "Cervicovaginal junction",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_ampulla_of_uterine_tube_R",
+      "name": "Ampulla of right uterine tube",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_isthmus_of_fallopian_tube_R",
+      "name": "Isthmus of right uterine tube",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_fibria_of_uterine_tube_R",
+      "name": "Fimbria of right uterine tube",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_uterine_tube_infundibulum_R",
+      "name": "Infundibulum of right uterine tube",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_uterine_tube_infundibulum_L",
+      "name": "Infundibulum of left uterine tube",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_fibria_of_uterine_tube_L",
+      "name": "Fimbria of left uterine tube",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_isthmus_of_fallopian_tube_L",
+      "name": "Isthmus of left uterine tube",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_ampulla_of_uterine_tube_L",
+      "name": "Ampulla of left uterine tube",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_uterovesical_pouch",
+      "name": "Uterovesical pouch",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_right_round_ligament_of_uterus",
+      "name": "Right round ligament of uterus",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_left_round_ligament_of_uterus",
+      "name": "Left round ligament of uterus",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_right_uterosacral_ligament",
+      "name": "Right uterosacral ligament",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_left_uterosacral_ligament",
+      "name": "Left uterosacral ligament",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_right_cardinal_ligament_of_uterus",
+      "name": "Cardinal ligament",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_left_cardinal_ligament_of_uterus",
+      "name": "Cardinal ligament",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_suspensory_ligament_of_ovary_R",
+      "name": "Suspensory ligament of right ovary",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_suspensory_ligament_of_ovary_L",
+      "name": "Suspensory ligament of left ovary",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_ovarian_ligament_L",
+      "name": "Left ovarian ligament",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_ovarian_ligament_R",
+      "name": "Right ovarian ligament",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_broad_ligament",
+      "name": "Broad ligament of uterus",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_mesosalpinx_L",
+      "name": "Left mesosalpinx",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_mesosalpinx_R",
+      "name": "Right mesosalpinx",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_mesovarium_R",
+      "name": "Right mesovarium",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_mesovarium_L",
+      "name": "Left mesovarium",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_left_ovary",
+      "name": "Left ovary",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_right_ovary",
+      "name": "Right ovary",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_abdominal_ostium_of_uterine_tube",
+      "name": "Abdominal ostium of uterine tube",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_body_of_uterus",
+      "name": "Body of uterus",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_fundus_of_uterus",
+      "name": "Fundus of uterus",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_cornua",
+      "name": "Cornua",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_lower_uterine_segment",
+      "name": "Lower uterine segment",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_posterior_wall_of_uterus",
+      "name": "Posterior wall of uterus",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_anterior_wall_of_uterus",
+      "name": "Anterior wall of uterus",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_cervix",
+      "name": "Uterine cervix",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_internal_cervical_os",
+      "name": "Internal cervical os",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_external_cervical_os",
+      "name": "External cervical os",
+      "system": "reproductive"
+    },
+    {
+      "id": "VH_F_fundus_of_urinary_bladder_dome",
+      "name": "Fundus of urinary bladder",
+      "system": "urinary"
+    },
+    {
+      "id": "VH_F_urinary_bladder_neck_smooth_muscle",
+      "name": "Urinary bladder neck smooth muscle",
+      "system": "urinary"
+    },
+    {
+      "id": "VH_F_fundus_of_urinary_bladder_base",
+      "name": "Fundus of urinary bladder",
+      "system": "urinary"
+    },
+    {
+      "id": "VH_F_trigone_of_urinary_bladder",
+      "name": "Trigone of urinary bladder",
+      "system": "urinary"
+    },
+    {
+      "id": "VH_F_ureteral_orifice_R",
+      "name": "Right ureteral orifice",
+      "system": "urinary"
+    },
+    {
+      "id": "VH_F_ureteral_orifice_L",
+      "name": "Left ureteral orifice",
+      "system": "urinary"
+    },
+    {
+      "id": "VH_F_sacrum",
+      "name": "Fused sacrum",
+      "system": "skeletal"
+    },
+    {
+      "id": "VH_F_coccyx",
+      "name": "Coccyx",
+      "system": "skeletal"
+    },
+    {
+      "id": "VH_F_pubis_spongy_bone_L",
+      "name": "Left pubis \u00b7 trabecular bone",
+      "system": "skeletal"
+    },
+    {
+      "id": "VH_F_pubis_spongy_bone_R",
+      "name": "Right pubis \u00b7 trabecular bone",
+      "system": "skeletal"
+    },
+    {
+      "id": "VH_F_pubis_compact_bone_R",
+      "name": "Right pubis \u00b7 cortical bone",
+      "system": "skeletal"
+    },
+    {
+      "id": "VH_F_pubis_compact_bone_L",
+      "name": "Left pubis \u00b7 cortical bone",
+      "system": "skeletal"
+    },
+    {
+      "id": "VH_F_ilium_compact_bone_R",
+      "name": "Right ilium \u00b7 cortical bone",
+      "system": "skeletal"
+    },
+    {
+      "id": "VH_F_ilium_compact_bone_L",
+      "name": "Left ilium \u00b7 cortical bone",
+      "system": "skeletal"
+    },
+    {
+      "id": "VH_F_ilium_spongy_bone_L",
+      "name": "Left ilium \u00b7 trabecular bone",
+      "system": "skeletal"
+    },
+    {
+      "id": "VH_F_ilium_spongy_bone_R",
+      "name": "Right ilium \u00b7 trabecular bone",
+      "system": "skeletal"
+    },
+    {
+      "id": "VH_F_ischium_compact_bone_R",
+      "name": "Right ischium \u00b7 cortical bone",
+      "system": "skeletal"
+    },
+    {
+      "id": "VH_F_ischium_compact_bone_L",
+      "name": "Left ischium \u00b7 cortical bone",
+      "system": "skeletal"
+    },
+    {
+      "id": "VH_F_ischium_spongy_bone_R",
+      "name": "Right ischium \u00b7 trabecular bone",
+      "system": "skeletal"
+    },
+    {
+      "id": "VH_F_ischium_spongy_bone_L",
+      "name": "Left ischium \u00b7 trabecular bone",
+      "system": "skeletal"
+    },
+    {
+      "id": "VH_F_left_uterine_artery",
+      "name": "Left uterine artery",
+      "system": "arterial"
+    },
+    {
+      "id": "VH_F_right_uterine_artery",
+      "name": "Right uterine artery",
+      "system": "arterial"
+    }
+  ]
+}

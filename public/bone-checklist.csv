@@ -1,0 +1,207 @@
+region,bone,status,mesh_ids,model_names,layer,mesh_count,provenance,note
+Cranial bones,Frontal bone,represented,FJ3200,Frontal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Cranial bones,Occipital bone,represented,FJ3309,Occipital bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Cranial bones,Sphenoid bone,represented,FJ3394,Sphenoid bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Cranial bones,Ethmoid,represented,FJ3199,Ethmoid,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Cranial bones,Left parietal bone,represented,FJ3274,Left parietal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Cranial bones,Left temporal bone,represented,FJ3281,Left temporal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Cranial bones,Right parietal bone,represented,FJ3380,Right parietal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Cranial bones,Right temporal bone,represented,FJ3386,Right temporal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Facial bones,Mandible,represented,FJ3289,Mandible,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Facial bones,Vomer,represented,FJ3395,Vomer,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Facial bones,Left maxilla,represented,FJ3269,Left maxilla,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Facial bones,Left zygomatic bone,represented,FJ3287,Left zygomatic bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Facial bones,Left nasal bone,represented,FJ3272,Left nasal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Facial bones,Left lacrimal bone,represented,FJ3265,Left lacrimal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Facial bones,Left palatine bone,represented,FJ3273,Left palatine bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Facial bones,Left inferior nasal concha,represented,FJ3263,Left inferior nasal concha,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Middle-ear bones,Left malleus,represented,CUSTOM_left_malleus,Left malleus (schematic),skeletal,1,schematic,Named mesh evidence only; shape and placement unvalidated.
+Middle-ear bones,Left incus,represented,CUSTOM_left_incus,Left incus (schematic),skeletal,1,schematic,Named mesh evidence only; shape and placement unvalidated.
+Middle-ear bones,Left stapes,represented,CUSTOM_left_stapes,Left stapes (schematic),skeletal,1,schematic,Named mesh evidence only; shape and placement unvalidated.
+Facial bones,Right maxilla,represented,FJ3375,Right maxilla,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Facial bones,Right zygomatic bone,represented,FJ3392,Right zygomatic bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Facial bones,Right nasal bone,represented,FJ3378,Right nasal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Facial bones,Right lacrimal bone,represented,FJ3371,Right lacrimal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Facial bones,Right palatine bone,represented,FJ3379,Right palatine bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Facial bones,Right inferior nasal concha,represented,FJ3369,Right inferior nasal concha,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Middle-ear bones,Right malleus,represented,CUSTOM_right_malleus,Right malleus (schematic),skeletal,1,schematic,Named mesh evidence only; shape and placement unvalidated.
+Middle-ear bones,Right incus,represented,CUSTOM_right_incus,Right incus (schematic),skeletal,1,schematic,Named mesh evidence only; shape and placement unvalidated.
+Middle-ear bones,Right stapes,represented,CUSTOM_right_stapes,Right stapes (schematic),skeletal,1,schematic,Named mesh evidence only; shape and placement unvalidated.
+Hyoid,Hyoid bone,represented,FJ3201,Hyoid bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,First cervical vertebra,represented,FJ3176,Atlas,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,Second cervical vertebra,represented,FJ3177,Axis,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,Third cervical vertebra,represented,FJ3161,Third cervical vertebra,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,Fourth cervical vertebra,represented,FJ3164,Fourth cervical vertebra,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,Fifth cervical vertebra,represented,FJ3167,Fifth cervical vertebra,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,Sixth cervical vertebra,represented,FJ3170,Sixth cervical vertebra,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,Seventh cervical vertebra,represented,FJ3172,Seventh cervical vertebra,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,First thoracic vertebra,represented,FJ3158,First thoracic vertebra,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,Second thoracic vertebra,represented,FJ3160,Second thoracic vertebra,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,Third thoracic vertebra,represented,FJ3163,Third thoracic vertebra,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,Fourth thoracic vertebra,represented,FJ3166,Fourth thoracic vertebra,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,Fifth thoracic vertebra,represented,FJ3169,Fifth thoracic vertebra,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,Sixth thoracic vertebra,represented,FJ3171,Sixth thoracic vertebra,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,Seventh thoracic vertebra,represented,FJ3173,Seventh thoracic vertebra,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,Eighth thoracic vertebra,represented,FJ3174,Eighth thoracic vertebra,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,Ninth thoracic vertebra,represented,FJ3175,Ninth thoracic vertebra,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,Tenth thoracic vertebra,represented,FJ3154,Tenth thoracic vertebra,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,Eleventh thoracic vertebra,represented,FJ3155,Eleventh thoracic vertebra,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,Twelfth thoracic vertebra,represented,FJ3156,Twelfth thoracic vertebra,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,First lumbar vertebra,represented,FJ3157,First lumbar vertebra,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,Second lumbar vertebra,represented,FJ3159,Second lumbar vertebra,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,Third lumbar vertebra,represented,FJ3162,Third lumbar vertebra,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,Fourth lumbar vertebra,represented,FJ3165,Fourth lumbar vertebra,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,Fifth lumbar vertebra,represented,FJ3168,Fifth lumbar vertebra,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,Sacrum,represented,VH_F_sacrum,Fused sacrum,skeletal,1,female-reference,Named mesh evidence only; shape and placement unvalidated.
+Vertebral column,Coccyx,represented,VH_F_coccyx,Coccyx,skeletal,1,female-reference,Named mesh evidence only; shape and placement unvalidated.
+Ribs and sternum,Left first rib,represented,FJ3228,Left first rib,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Ribs and sternum,Left second rib,represented,FJ3229,Left second rib,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Ribs and sternum,Left third rib,represented,FJ3230,Left third rib,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Ribs and sternum,Left fourth rib,represented,FJ3231,Left fourth rib,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Ribs and sternum,Left fifth rib,represented,FJ3232,Left fifth rib,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Ribs and sternum,Left sixth rib,represented,FJ3233,Left sixth rib,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Ribs and sternum,Left seventh rib,represented,FJ3234,Left seventh rib,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Ribs and sternum,Left eighth rib,represented,FJ3235,Left eighth rib,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Ribs and sternum,Left ninth rib,represented,FJ3236,Left ninth rib,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Ribs and sternum,Left tenth rib,represented,FJ3225,Left tenth rib,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Ribs and sternum,Left eleventh rib,represented,FJ3226,Left eleventh rib,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Ribs and sternum,Left twelfth rib,represented,FJ3227,Left twelfth rib,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Ribs and sternum,Right first rib,represented,FJ3334,Right first rib,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Ribs and sternum,Right second rib,represented,FJ3336,Right second rib,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Ribs and sternum,Right third rib,represented,FJ3338,Right third rib,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Ribs and sternum,Right fourth rib,represented,FJ3340,Right fourth rib,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Ribs and sternum,Right fifth rib,represented,FJ3342,Right fifth rib,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Ribs and sternum,Right sixth rib,represented,FJ3344,Right sixth rib,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Ribs and sternum,Right seventh rib,represented,FJ3346,Right seventh rib,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Ribs and sternum,Right eighth rib,represented,FJ3347,Right eighth rib,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Ribs and sternum,Right ninth rib,represented,FJ3348,Right ninth rib,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Ribs and sternum,Right tenth rib,represented,FJ3330,Right tenth rib,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Ribs and sternum,Right eleventh rib,represented,FJ3331,Right eleventh rib,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Ribs and sternum,Right twelfth rib,represented,FJ3332,Right twelfth rib,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Ribs and sternum,Sternum,represented,FJ3290; FJ3178; FJ3153,Manubrium; Body of sternum; Xiphoid process,skeletal,3,adapted,Named mesh evidence only; shape and placement unvalidated.
+Shoulder girdles,Left clavicle,represented,FJ3237,Left clavicle,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Shoulder girdles,Left scapula,represented,FJ3279,Left scapula,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Left humerus,represented,FJ3262,Left humerus,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Left radius,represented,FJ3277,Left radius,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Left ulna,represented,FJ3286,Left ulna,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Left scaphoid,represented,FJ3278,Left scaphoid,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Left lunate,represented,FJ3268,Left lunate,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Left triquetral,represented,FJ3285,Left triquetral,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Left pisiform,represented,FJ3276,Left pisiform,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Left trapezium,represented,FJ3283,Left trapezium,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Left trapezoid,represented,FJ3284,Left trapezoid,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Left capitate,represented,FJ3257,Left capitate,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Left hamate,represented,FJ3261,Left hamate,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Left first metacarpal bone,represented,FJ3240,Left first metacarpal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Left second metacarpal bone,represented,FJ3243,Left second metacarpal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Left third metacarpal bone,represented,FJ3246,Left third metacarpal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Left fourth metacarpal bone,represented,FJ3249,Left fourth metacarpal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Left fifth metacarpal bone,represented,FJ3252,Left fifth metacarpal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Proximal phalanx of left thumb,represented,FJ3318,Proximal phalanx of left thumb,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Distal phalanx of left thumb,represented,FJ3188,Distal phalanx of left thumb,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Proximal phalanx of left index finger,represented,FJ3313,Proximal phalanx of left index finger,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Middle phalanx of left index finger,represented,FJ3296,Middle phalanx of left index finger,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Distal phalanx of left index finger,represented,FJ3183,Distal phalanx of left index finger,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Proximal phalanx of left middle finger,represented,FJ3316,Proximal phalanx of left middle finger,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Middle phalanx of left middle finger,represented,FJ3299,Middle phalanx of left middle finger,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Distal phalanx of left middle finger,represented,FJ3186,Distal phalanx of left middle finger,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Proximal phalanx of left ring finger,represented,FJ3317,Proximal phalanx of left ring finger,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Middle phalanx of left ring finger,represented,FJ3291,Middle phalanx of left ring finger,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Distal phalanx of left ring finger,represented,FJ3187,Distal phalanx of left ring finger,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Proximal phalanx of left little finger,represented,FJ3314,Proximal phalanx of left little finger,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Middle phalanx of left little finger,represented,FJ3297,Middle phalanx of left little finger,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Distal phalanx of left little finger,represented,FJ3184,Distal phalanx of left little finger,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Hip bones,Left hip bone,represented,VH_F_pubis_spongy_bone_L; VH_F_pubis_compact_bone_L; VH_F_ilium_compact_bone_L; VH_F_ilium_spongy_bone_L; VH_F_ischium_compact_bone_L; VH_F_ischium_spongy_bone_L,Left pubis · trabecular bone; Left pubis · cortical bone; Left ilium · cortical bone; Left ilium · trabecular bone; Left ischium · cortical bone; Left ischium · trabecular bone,skeletal,6,female-reference,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Left femur,represented,FJ3259,Left femur,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Left patella,represented,FJ3275,Left patella,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Left tibia,represented,FJ3282,Left tibia,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Left fibula,represented,FJ3260,Left fibula,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Left talus,represented,FJ3280,Left talus,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Left calcaneus,represented,FJ3256,Left calcaneus,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Left cuboid bone,represented,FJ3258,Left cuboid bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Left medial cuneiform bone,represented,FJ3271,Left medial cuneiform bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Left intermediate cuneiform bone,represented,FJ3264,Left intermediate cuneiform bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Left lateral cuneiform bone,represented,FJ3267,Left lateral cuneiform bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Navicular bone of left foot,represented,FJ3307,Navicular bone of left foot,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Left first metatarsal bone,represented,FJ3241,Left first metatarsal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Left second metatarsal bone,represented,FJ3244,Left second metatarsal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Left third metatarsal bone,represented,FJ3247,Left third metatarsal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Left fourth metatarsal bone,represented,FJ3250,Left fourth metatarsal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Left fifth metatarsal bone,represented,FJ3253,Left fifth metatarsal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Proximal phalanx of left big toe,represented,FJ3329,Proximal phalanx of left big toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Distal phalanx of left big toe,represented,FJ3182,Distal phalanx of left big toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Proximal phalanx of left second toe,represented,FJ3328,Proximal phalanx of left second toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Middle phalanx of left second toe,represented,FJ3293,Middle phalanx of left second toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Distal phalanx of left second toe,represented,FJ3179,Distal phalanx of left second toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Proximal phalanx of left third toe,represented,FJ3311,Proximal phalanx of left third toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Middle phalanx of left third toe,represented,FJ3294,Middle phalanx of left third toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Distal phalanx of left third toe,represented,FJ3180,Distal phalanx of left third toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Proximal phalanx of left fourth toe,represented,FJ3312,Proximal phalanx of left fourth toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Middle phalanx of left fourth toe,represented,FJ3295,Middle phalanx of left fourth toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Distal phalanx of left fourth toe,represented,FJ3181,Distal phalanx of left fourth toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Proximal phalanx of left little toe,represented,FJ3315,Proximal phalanx of left little toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Middle phalanx of left little toe,represented,FJ3298,Middle phalanx of left little toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Distal phalanx of left little toe,represented,FJ3185,Distal phalanx of left little toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Shoulder girdles,Right clavicle,represented,FJ3362,Right clavicle,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Shoulder girdles,Right scapula,represented,FJ3384,Right scapula,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Right humerus,represented,FJ3368,Right humerus,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Right radius,represented,FJ3349,Right radius,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Right ulna,represented,FJ3391,Right ulna,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Right scaphoid,represented,FJ3383,Right scaphoid,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Right lunate,represented,FJ3374,Right lunate,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Right triquetral,represented,FJ3390,Right triquetral,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Right pisiform,represented,FJ3382,Right pisiform,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Right trapezium,represented,FJ3388,Right trapezium,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Right trapezoid,represented,FJ3389,Right trapezoid,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Right capitate,represented,FJ3361,Right capitate,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Right hamate,represented,FJ3367,Right hamate,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Right first metacarpal bone,represented,FJ3350,Right first metacarpal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Right second metacarpal bone,represented,FJ3352,Right second metacarpal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Right third metacarpal bone,represented,FJ3354,Right third metacarpal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Right fourth metacarpal bone,represented,FJ3356,Right fourth metacarpal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Right fifth metacarpal bone,represented,FJ3358,Right fifth metacarpal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Proximal phalanx of right thumb,represented,FJ3327,Proximal phalanx of right thumb,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Distal phalanx of right thumb,represented,FJ3198,Distal phalanx of right thumb,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Proximal phalanx of right index finger,represented,FJ3322,Proximal phalanx of right index finger,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Middle phalanx of right index finger,represented,FJ3303,Middle phalanx of right index finger,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Distal phalanx of right index finger,represented,FJ3193,Distal phalanx of right index finger,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Proximal phalanx of right middle finger,represented,FJ3325,Proximal phalanx of right middle finger,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Middle phalanx of right middle finger,represented,FJ3306,Middle phalanx of right middle finger,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Distal phalanx of right middle finger,represented,FJ3196,Distal phalanx of right middle finger,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Proximal phalanx of right ring finger,represented,FJ3326,Proximal phalanx of right ring finger,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Middle phalanx of right ring finger,represented,FJ3292,Middle phalanx of right ring finger,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Distal phalanx of right ring finger,represented,FJ3197,Distal phalanx of right ring finger,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Proximal phalanx of right little finger,represented,FJ3323,Proximal phalanx of right little finger,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Middle phalanx of right little finger,represented,FJ3304,Middle phalanx of right little finger,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Upper limbs and hands,Distal phalanx of right little finger,represented,FJ3194,Distal phalanx of right little finger,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Hip bones,Right hip bone,represented,VH_F_pubis_spongy_bone_R; VH_F_pubis_compact_bone_R; VH_F_ilium_compact_bone_R; VH_F_ilium_spongy_bone_R; VH_F_ischium_compact_bone_R; VH_F_ischium_spongy_bone_R,Right pubis · trabecular bone; Right pubis · cortical bone; Right ilium · cortical bone; Right ilium · trabecular bone; Right ischium · cortical bone; Right ischium · trabecular bone,skeletal,6,female-reference,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Right femur,represented,FJ3365,Right femur,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Right patella,represented,FJ3381,Right patella,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Right tibia,represented,FJ3387,Right tibia,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Right fibula,represented,FJ3366,Right fibula,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Right talus,represented,FJ3385,Right talus,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Right calcaneus,represented,FJ3360,Right calcaneus,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Right cuboid bone,represented,FJ3364,Right cuboid bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Right medial cuneiform bone,represented,FJ3377,Right medial cuneiform bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Right intermediate cuneiform bone,represented,FJ3370,Right intermediate cuneiform bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Right lateral cuneiform bone,represented,FJ3373,Right lateral cuneiform bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Navicular bone of right foot,represented,FJ3308,Navicular bone of right foot,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Right first metatarsal bone,represented,FJ3351,Right first metatarsal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Right second metatarsal bone,represented,FJ3353,Right second metatarsal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Right third metatarsal bone,represented,FJ3355,Right third metatarsal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Right fourth metatarsal bone,represented,FJ3357,Right fourth metatarsal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Right fifth metatarsal bone,represented,FJ3359,Right fifth metatarsal bone,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Proximal phalanx of right big toe,represented,FJ3310,Proximal phalanx of right big toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Distal phalanx of right big toe,represented,FJ3192,Distal phalanx of right big toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Proximal phalanx of right second toe,represented,FJ3319,Proximal phalanx of right second toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Middle phalanx of right second toe,represented,FJ3300,Middle phalanx of right second toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Distal phalanx of right second toe,represented,FJ3189,Distal phalanx of right second toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Proximal phalanx of right third toe,represented,FJ3320,Proximal phalanx of right third toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Middle phalanx of right third toe,represented,FJ3301,Middle phalanx of right third toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Distal phalanx of right third toe,represented,FJ3190,Distal phalanx of right third toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Proximal phalanx of right fourth toe,represented,FJ3321,Proximal phalanx of right fourth toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Middle phalanx of right fourth toe,represented,FJ3302,Middle phalanx of right fourth toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Distal phalanx of right fourth toe,represented,FJ3191,Distal phalanx of right fourth toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Proximal phalanx of right little toe,represented,FJ3324,Proximal phalanx of right little toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Middle phalanx of right little toe,represented,FJ3305,Middle phalanx of right little toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
+Lower limbs and feet,Distal phalanx of right little toe,represented,FJ3195,Distal phalanx of right little toe,skeletal,1,adapted,Named mesh evidence only; shape and placement unvalidated.
